@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+#id_Combine_Colour, #id_show_colour_1, #id_show_colour_2{
+    width: 500px;
+    height: 500px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #282828;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+p, h1, h2, h3, h4, h5, h6, label, a{
+    color: white;
+}
+
+table, th, td, tr {
+    margin: auto;
+    text-align: center;
+}
+
+td{
+    border: thin solid white;
+}
+
+button{
+    margin-top: 5px;
+}
